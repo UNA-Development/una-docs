@@ -1,5 +1,5 @@
 ## Drug Pricing API Specs
--------------------------------
+
 ### Type:
   - RESTful
   - JSON return
