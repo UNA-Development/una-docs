@@ -13,6 +13,7 @@
   - NPI (not required but highly recommended)
   notes:
   Pagination of results is acceptable, and recommended. Would require fields for number of results per page and page number.
+  
   \* required
 -------------------------------
 ### Pricing response contents:
