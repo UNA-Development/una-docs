@@ -21,7 +21,7 @@
   - drug label
   - quantity
 
-  * all fields are required
+  \* all fields are required
 
 ### Possible Return 1
 ```
