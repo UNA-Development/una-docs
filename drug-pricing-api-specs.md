@@ -60,6 +60,21 @@
       ]
     }
 ```
+### Example fields for each pharmacy returned
+```
+{
+  npi: "1033124292",
+  name: "WALGREENS 3085",
+  pharmacy: "WALGREENS",
+  phoneNumber: "2257531499",
+  street1: "14444 COURSEY BLVD",
+  street2: "",
+  city: "BATON ROUGE",
+  state: "LA",
+  zipCode: "70817",
+  price: "238.52"
+}
+```
 
 ### Possible Return 2
 ```
