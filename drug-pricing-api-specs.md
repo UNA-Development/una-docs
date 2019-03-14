@@ -11,8 +11,9 @@
   - radius (required if not supplied a NPI)
   - zip code (required if not supplied a NPI)
   - NPI (not required but highly recommended)
-  notes:
-  * Pagination of results is acceptable, and recommended. Would require fields for number of results per page and page number.
+  /n
+  _notes:
+  * Pagination of results is acceptable, and recommended. Would require fields for number of results per page and page number._
 
     \* required
 -------------------------------
